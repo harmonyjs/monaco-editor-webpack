@@ -1,10 +1,12 @@
-# Monaco Editor Webpack Loader Plugin
+# Monaco Editor Webpack Plugin
 
 A plugin to simplify loading the [Monaco Editor](https://github.com/Microsoft/monaco-editor) with [webpack](https://webpack.js.org/).
 
+> Monaco Editor Webpack Plugin is based on (and api compatible with) the original [monaco-editor-webpack-plugin](https://github.com/Microsoft/monaco-editor-webpack-plugin) since it's unmaintained.
+
 ## Installing
 ```sh
-npm install monaco-editor-webpack-plugin
+npm install monaco-editor-webpack
 ```
 
 ## Using
